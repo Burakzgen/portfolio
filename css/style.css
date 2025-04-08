@@ -653,8 +653,8 @@ h6 { font-size: 16px; }
 	clear: both;
 	float: left;
 	background-color: #fff;
-	margin-bottom: 150px;
-	padding-top: 150px;
+	margin-bottom: 100px;
+	padding-top: 50px;
 }
 .grax_tm_about .about_inner{
 	width: 100%;
@@ -857,7 +857,7 @@ h6 { font-size: 16px; }
 	height: auto;
 	clear: both;
 	float: left;
-	padding: 140px 0px 100px 0px;
+	padding: 100px 0px 100px 0px;
 	background-color: #f9f9f9;
 }
 .grax_tm_portfolio .portfolio_list{
@@ -865,7 +865,7 @@ h6 { font-size: 16px; }
 	height: auto;
 	clear: both;
 	float: left;
-	padding-top: 90px;
+	padding-top: 50px;
 }
 .grax_tm_portfolio ul{
 	margin: 0px 0px 0px -50px;
